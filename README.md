@@ -3,7 +3,7 @@
 
 ![Eternity's GitHub stats](https://github-readme-stats.vercel.app/api?username=eternity2745&count_private=true&show_icons=true&theme=tokyonight)
 
-![Eternity's Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=eternity2745&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eternity2745)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eternity2745&theme=onedark_duo&date_format=j%20M%5B%20Y%5D)
 
